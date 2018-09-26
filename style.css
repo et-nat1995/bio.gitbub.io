@@ -1,0 +1,42 @@
+.wrapper{
+    width: 900px;
+    margin: 0 auto;
+
+}
+#header{
+    width: auto;
+    height: 100px;
+    background: #ebebeb;
+    text-align: center;
+}
+
+#nav{
+    width: auto;
+    height: 100px;
+    background: #ebebeb;
+    text-align: center;
+}
+
+#secttion{
+    float: left;
+    height: 200px;
+    width: 440px;
+    background: #ebebeb;
+    text-align: center;
+}
+
+#aside{
+    float: right;
+    height: 200px;
+    width: 440px;
+    background: #ebebeb;
+    text-align: center;
+}
+
+#footer{
+    width: auto;
+    height: 100px;
+    background: #ebebeb;
+    text-align: center;
+    margin-top: 200px;
+}
