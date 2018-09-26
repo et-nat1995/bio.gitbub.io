@@ -1,8 +1,16 @@
+body{
+    font-family: 'Arial','Helvetica Neue', 'Helvetica',  sans-serif;
+    color: #777;
+    background-attachment: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
 .wrapper{
     width: 900px;
     margin: 0 auto;
-
 }
+
 #header{
     width: auto;
     height: 100px;
@@ -19,16 +27,16 @@
 
 #secttion{
     float: left;
-    height: 200px;
-    width: 440px;
+    height: 500px;
+    width: 540px;
     background: #ebebeb;
     text-align: center;
 }
 
 #aside{
     float: right;
-    height: 200px;
-    width: 440px;
+    height: 500px;
+    width: 340px;
     background: #ebebeb;
     text-align: center;
 }
@@ -38,5 +46,17 @@
     height: 100px;
     background: #ebebeb;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 500px;
+}
+
+#article {
+    height: 400px;
+    width: 440px;
+    background: #777;
+    color: #ebebeb;
+    margin-left: 50px;
+}
+
+h1{
+    font-size: medium;
 }
